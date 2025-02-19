@@ -2,11 +2,6 @@
 <h1 align="center">👋 Hi, I'm Pol!</h1>
 <h3 align="center">A passionate Software Developer from Spain</h3>
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z4kar18&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=z4kar18&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
@@ -68,6 +63,11 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
+</p>
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z4kar18&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
