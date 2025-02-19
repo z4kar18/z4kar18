@@ -2,10 +2,17 @@
 <h1 align="center">👋 Hi, I'm Pol!</h1>
 <h3 align="center">A passionate Software Developer from Spain</h3>
 
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=z4kar18&theme=onedark" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z4kar18&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z4kar18&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4kar18&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -64,16 +71,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z4kar18&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z4kar18&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4kar18&theme=radical" alt="GitHub Streak Stats" />
-</p>
